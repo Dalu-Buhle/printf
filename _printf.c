@@ -1,7 +1,7 @@
 /*
  * File: _printf.c
  * Auth: MJ O'Neill
- *       Dalue Lunga
+ *       Dalu-Buhle
  */
 
 #include "main.h"
